@@ -1,11 +1,8 @@
 {
   "files": {
     "main.js": "/mvm-web/static/js/main.cfc23fb1.chunk.js",
-    "main.js.map": "/mvm-web/static/js/main.cfc23fb1.chunk.js.map",
     "runtime-main.js": "/mvm-web/static/js/runtime-main.4562e537.js",
-    "runtime-main.js.map": "/mvm-web/static/js/runtime-main.4562e537.js.map",
     "static/js/2.65920473.chunk.js": "/mvm-web/static/js/2.65920473.chunk.js",
-    "static/js/2.65920473.chunk.js.map": "/mvm-web/static/js/2.65920473.chunk.js.map",
     "index.html": "/mvm-web/index.html",
     "precache-manifest.4622fcd2da355622b3f39e0f1635f368.js": "/mvm-web/precache-manifest.4622fcd2da355622b3f39e0f1635f368.js",
     "service-worker.js": "/mvm-web/service-worker.js"
