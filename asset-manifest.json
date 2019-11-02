@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/mvm-web/static/js/main.62a5a996.chunk.js",
-    "main.js.map": "/mvm-web/static/js/main.62a5a996.chunk.js.map",
+    "main.js": "/mvm-web/static/js/main.11a92a4b.chunk.js",
+    "main.js.map": "/mvm-web/static/js/main.11a92a4b.chunk.js.map",
     "runtime-main.js": "/mvm-web/static/js/runtime-main.4562e537.js",
     "runtime-main.js.map": "/mvm-web/static/js/runtime-main.4562e537.js.map",
-    "static/js/2.3da82ad1.chunk.js": "/mvm-web/static/js/2.3da82ad1.chunk.js",
-    "static/js/2.3da82ad1.chunk.js.map": "/mvm-web/static/js/2.3da82ad1.chunk.js.map",
+    "static/js/2.00953606.chunk.js": "/mvm-web/static/js/2.00953606.chunk.js",
+    "static/js/2.00953606.chunk.js.map": "/mvm-web/static/js/2.00953606.chunk.js.map",
     "index.html": "/mvm-web/index.html",
-    "precache-manifest.2ec6c9bad35a2c081aca1e75f39c9050.js": "/mvm-web/precache-manifest.2ec6c9bad35a2c081aca1e75f39c9050.js",
+    "precache-manifest.d4a18a139e2a000bf9e80b633f678f84.js": "/mvm-web/precache-manifest.d4a18a139e2a000bf9e80b633f678f84.js",
     "service-worker.js": "/mvm-web/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.4562e537.js",
-    "static/js/2.3da82ad1.chunk.js",
-    "static/js/main.62a5a996.chunk.js"
+    "static/js/2.00953606.chunk.js",
+    "static/js/main.11a92a4b.chunk.js"
   ]
 }
