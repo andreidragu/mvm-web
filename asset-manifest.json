@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/mvm-web/static/js/main.254366d6.chunk.js",
+    "main.js": "/mvm-web/static/js/main.39d38659.chunk.js",
     "runtime-main.js": "/mvm-web/static/js/runtime-main.4562e537.js",
-    "static/js/2.65920473.chunk.js": "/mvm-web/static/js/2.65920473.chunk.js",
+    "static/js/2.e4000139.chunk.js": "/mvm-web/static/js/2.e4000139.chunk.js",
     "index.html": "/mvm-web/index.html",
-    "precache-manifest.1287e2c22bb9bad6d93f5764cdd421ea.js": "/mvm-web/precache-manifest.1287e2c22bb9bad6d93f5764cdd421ea.js",
+    "precache-manifest.b6b724d0ea205c1cbd255418eb13d2bb.js": "/mvm-web/precache-manifest.b6b724d0ea205c1cbd255418eb13d2bb.js",
     "service-worker.js": "/mvm-web/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.4562e537.js",
-    "static/js/2.65920473.chunk.js",
-    "static/js/main.254366d6.chunk.js"
+    "static/js/2.e4000139.chunk.js",
+    "static/js/main.39d38659.chunk.js"
   ]
 }
